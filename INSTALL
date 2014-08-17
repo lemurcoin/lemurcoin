@@ -1,0 +1,9 @@
+Building LemurCoin
+
+See doc/readme-qt.rst for instructions on building LemurCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LemurCoin.
+
+See doc/build-*.txt for instructions on building lemurcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LemurCoin.
