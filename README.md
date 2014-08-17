@@ -1,4 +1,4 @@
-## Lemurcoin [LMR, Ᵽ]
+## Lemurcoin [LMR]
 
 ![LemurCoin](https://ip.bitcointalk.org/?u=http%3A%2F%2Flemurcoin.org%2Fwp-content%2Fuploads%2F2014%2F08%2Flemurcoin.png&t=543&c=4Obb7iN2pZiqCQ)
 
